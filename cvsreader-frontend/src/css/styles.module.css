@@ -1,0 +1,21 @@
+body {
+    margin:10;
+    background: rgb(238, 238, 238);
+}
+
+h1 {
+    color:  rgb(2, 81, 134);
+}
+
+
+h2 {
+    color:  rgb(2, 81, 134);
+}
+
+.person {
+    padding:20px;
+    box-sizing:border-box;
+    border-bottom: 1px solid rgb(106, 187, 235);
+    background-color: rgb(217, 233, 247);
+    font-family: 'Times New Roman';
+}
